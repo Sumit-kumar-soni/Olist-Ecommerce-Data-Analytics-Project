@@ -5,7 +5,7 @@ This project is an end-to-end data analytics solution designed to extract action
 
 ## Tech Stack Used
 * **Database Management:** SQL Server (Data extraction, cleaning, defining Primary/Foreign Keys)
-* **Data Cleaning:** Excel
+* **Data Cleaning:** Excel & SQL
 * **Data Visualization & BI:** Power BI
 * **Data Modeling:** Star Schema design
 * **Calculations & Logic:** DAX (Data Analysis Expressions)
