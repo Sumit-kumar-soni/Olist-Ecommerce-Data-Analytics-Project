@@ -18,7 +18,7 @@ These notes cover essential concepts, techniques, and tools used in real-world d
 
 
 
-After establishing a foundation in SQL Data Warehousing, this section transitions into \*\*hands-on Data Analytics using SQL\*\*. The focus is on deriving meaningful insights from data using structured queries, business logic, and best practices in reporting.
+After establishing a foundation in SQL Data Warehousing, this section transitions into **hands-on Data Analytics using SQL**. The focus is on deriving meaningful insights from data using structured queries, business logic, and best practices in reporting.
 
 
 
@@ -34,11 +34,11 @@ After establishing a foundation in SQL Data Warehousing, this section transition
 
 
 
-* \*\*Dimensions\*\*: Qualitative attributes (e.g., Product, Region, Customer)
+* **Dimensions**: Qualitative attributes (e.g., Product, Region, Customer)
 
-* \*\*Measures\*\*: Quantitative metrics (e.g., Sales, Quantity, Profit)
+* **Measures**: Quantitative metrics (e.g., Sales, Quantity, Profit)
 
-* Understanding the \*\*difference\*\* is crucial for proper aggregations and reporting.
+* Understanding the **difference** is crucial for proper aggregations and reporting.
 
 
 
@@ -54,7 +54,7 @@ After establishing a foundation in SQL Data Warehousing, this section transition
 
 
 
-&#x20; \* Month-Over-Month (MoM)
+   * Month-Over-Month (MoM)
 
 
 
