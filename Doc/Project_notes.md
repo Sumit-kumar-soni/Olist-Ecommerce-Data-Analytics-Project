@@ -1,4 +1,4 @@
-\### 📝 SQL Data Analytics – Project Notes
+### 📝 SQL Data Analytics – Project Notes
 
 
 
@@ -10,11 +10,11 @@ These notes cover essential concepts, techniques, and tools used in real-world d
 
 
 
-\---
+---
 
 
 
-\### 📊 SQL Data Analytics Project – Summary
+### 📊 SQL Data Analytics Project – Summary
 
 
 
@@ -22,35 +22,35 @@ After establishing a foundation in SQL Data Warehousing, this section transition
 
 
 
-\---
+---
 
 
 
-\### 🔍 Key Topics Covered
+### 🔍 Key Topics Covered
 
 
 
-\#### 📐 Dimensions vs Measures
+#### 📐 Dimensions vs Measures
 
 
 
-\* \*\*Dimensions\*\*: Qualitative attributes (e.g., Product, Region, Customer)
+* \*\*Dimensions\*\*: Qualitative attributes (e.g., Product, Region, Customer)
 
-\* \*\*Measures\*\*: Quantitative metrics (e.g., Sales, Quantity, Profit)
+* \*\*Measures\*\*: Quantitative metrics (e.g., Sales, Quantity, Profit)
 
-\* Understanding the \*\*difference\*\* is crucial for proper aggregations and reporting.
-
-
-
-\#### 📅 Temporal Analytics
+* Understanding the \*\*difference\*\* is crucial for proper aggregations and reporting.
 
 
 
-\* Work with date fields to analyze trends over time
+#### 📅 Temporal Analytics
 
-\* Use of CTE for analysis
 
-\* Use of functions like `MONTH()`, `DATEPART()`, and window functions for:
+
+* Work with date fields to analyze trends over time
+
+* Use of CTE for analysis
+
+* Use of functions like `MONTH()`, `DATEPART()`, and window functions for:
 
 
 
@@ -58,33 +58,33 @@ After establishing a foundation in SQL Data Warehousing, this section transition
 
 
 
-\#### 📌 Business-Focused Use Cases
+#### 📌 Business-Focused Use Cases
 
 
 
-\* Calculating KPIs such as Total Revenue, Average Order Value, and Customer Lifetime Value
+* Calculating KPIs such as Total Revenue, Average Order Value, and Customer Lifetime Value
 
-\* Performing segment analysis (e.g., by customer type, region, time)
-
-
+* Performing segment analysis (e.g., by customer type, region, time)
 
 
 
-\#### 📊 Reporting-Ready SQL
+
+
+#### 📊 Reporting-Ready SQL
 
 
 
-\* Creating SQL outputs that can plug directly into BI tools like Power BI or Tableau
+* Creating SQL outputs that can plug directly into BI tools like Power BI or Tableau
 
-\* Focus on clean column naming, aliasing, and logical structuring
-
-
-
-\---
+* Focus on clean column naming, aliasing, and logical structuring
 
 
 
-\### ✅ Outcome
+---
+
+
+
+### ✅ Outcome
 
 
 
@@ -92,13 +92,13 @@ By the end of the analytics section, you’ll be equipped to:
 
 
 
-\* Write complex SQL queries for business scenarios
+* Write complex SQL queries for business scenarios
 
-\* Understand how to structure data for reporting
+* Understand how to structure data for reporting
 
-\* Perform deep-dives into segmented and time-based data
+* Perform deep-dives into segmented and time-based data
 
-\* Deliver meaningful insights for decision-making
+* Deliver meaningful insights for decision-making
 
 
 
