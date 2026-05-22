@@ -2,7 +2,7 @@
 
 
 
-This project roadmap outlines a structured approach to applying SQL for real-world \*\*Data Analytics\*\* tasks. Designed by \*\*Sumit Kumar Soni\*\*,
+This project roadmap outlines a structured approach to applying SQL for real-world **Data Analytics** tasks. Designed by **Sumit Kumar Soni**,
 
 this collection of analytics mini-projects builds analytical thinking, business acumen, and SQL proficiency.
 
