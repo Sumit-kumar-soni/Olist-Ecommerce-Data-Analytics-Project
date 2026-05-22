@@ -1,4 +1,4 @@
-\## 🗺️ SQL Data Analytics Project Roadmap
+### 🗺️ SQL Data Analytics Project Roadmap
 
 
 
@@ -8,51 +8,51 @@ this collection of analytics mini-projects builds analytical thinking, business 
 
 
 
-\---
+---
 
 
 
-\### 🔢 10-Stage SQL Analytics Roadmap
+### 🔢 10-Stage SQL Analytics Roadmap
 
 
 
-1\. Order cancellation rate by product category
+1. Order cancellation rate by product category
 
 
 
-2\. Sellers with highest volume of delayed deliveries
+2. Sellers with highest volume of delayed deliveries
 
 
 
-3\. Delivery delay vs. average review score
+3. Delivery delay vs. average review score
 
 
 
-4\. Average freight value by state and purchasing volume
+4. Average freight value by state and purchasing volume
 
 
 
-5\. Popular payment methods for repeat customers
+5. Popular payment methods for repeat customers
 
 
 
-6\. MoM revenue growth for top 5 categories
+6. MoM revenue growth for top 5 categories
 
 
 
-7\. 7. Time of day vs. same-day processing
+7. Time of day vs. same-day processing
 
 
 
-8\. 1-star reviews: delivery vs. product quality
+8. 1-star reviews: delivery vs. product quality
 
 
 
-9\. Geographical regions with highest AOV
+9. Geographical regions with highest AOV
 
 
 
-10\. Customer retention rate after first purchase
+10. Customer retention rate after first purchase
 
 
 
