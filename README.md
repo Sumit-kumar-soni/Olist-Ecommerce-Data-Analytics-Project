@@ -24,7 +24,7 @@ This project is an end-to-end data analytics solution designed to extract action
 
 ## Files Included
 * `Olist_Data_Cleaning.sql`: The SQL scripts used to clean dirty data, assign keys, and test relationships.
-* `Ecommerce_Dashboard.pbix`: The final Power BI project file containing the data model and interactive canvas.
+* `Olist_Ecommerce_Dashboard.pbix`: The final Power BI project file containing the data model and interactive canvas.
 * `Dashboard_Screenshots/`: High-resolution images of the final dashboard for quick viewing.
 <img width="1920" height="1031" alt="Olist_Ecommerce_Dashboard" src="https://github.com/user-attachments/assets/7c0d5af9-a28b-43b3-a1e1-fa0061a7e585" />
 
