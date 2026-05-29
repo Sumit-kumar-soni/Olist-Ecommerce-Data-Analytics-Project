@@ -38,8 +38,20 @@ Let's stay in touch! Feel free to connect with me on the following platforms:
 
 ## 🛡️ License
 
-This project is licensed under the [MIT License](LICENSE). You are free to use, modify, and share this project with proper attribution.
+Copyright (c) 2026 Sumit Kumar Soni
 
+All rights reserved.
+
+This project is publicly visible for educational/viewing purposes only.
+
+You are NOT allowed to:
+- copy the code
+- reuse the code
+- modify the code
+- redistribute the code
+- sell the code
+- use this project in portfolios
+- claim this work as your own
 ## 🌟 About Me
 
 Hi there! I'm **Sumit Kumar Soni**. I’m passionate Data Analyst on a mission to share insight by using data and make working with data enjoyable and engaging!
